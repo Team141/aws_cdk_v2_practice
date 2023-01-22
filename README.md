@@ -1,3 +1,6 @@
+# Extra resources used in Udemy course
+`devops_codecommit(react app) repo`: https://github.com/Team141/Login-Logout-React or https://github.com/Team141/React_SPA_for_AWSCDKV2
+`lambda function`: https://github.com/Team141/udemy_aws_cdk_code
 
 # Welcome to your CDK Python project!
 
